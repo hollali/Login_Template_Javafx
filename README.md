@@ -21,8 +21,8 @@ Setup
 
     bash
 
-    git clone https://github.com/yourusername/javafx-login-form.git
-    cd javafx-login-form
+    git clone https://github.com/hollali/javafx-login-form.git
+    cd Login_Template_Javafx
 
     Configure JavaFX:
         Make sure to set up your JavaFX SDK path in your IDE or build tool.
